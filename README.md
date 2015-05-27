@@ -1,5 +1,5 @@
-Algorithms and Data Structures Repository
-This repository contains basic data structures and algorithms implementations as prepared for a Google Interview. This information should help anyone out that is interviewing at Google or would like to look at some basic algorithm implementations. Amongst some of the most fun in this process was creating the adjacency list graph. In it I was able to apply some cool algorithms such as topological sort, dijikstra's shortest path, and primm's minimum spanning tree. Enjoy the use of this code. It was created in the IntelliJ ide but I have not moved those files over yet because this is just the code in a publically viewable format only.
+# Algorithms and Data Structures Repository
+This repository contains basic data structures and algorithms implementations as prepared for a Google Interview. This information should help anyone out that is interviewing at Google or would like to look at some basic algorithm implementations. Amongst some of the most fun in this process was creating the adjacency list graph. In it I was able to apply some cool algorithms such as topological sort, Dijikstra's shortest path, and Primm's minimum spanning tree. Enjoy the use of this code. It was created in the IntelliJ ide but I have not moved those files over yet because this is just the code in a publically viewable format only.
 
 The following describes the project main directories and files:
 * [Core Algorithms](https://github.com/jhansensd/jhansen-public/tree/master/algorithms/core) - This is the core algorithms and data structures code directory. This contains the most up to date and complete view of the core code.
@@ -21,9 +21,10 @@ The following describes the project main directories and files:
   * [SinglyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyTailLinkedList.java) - This is a singly linked list which tracks a tail pointer and contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
 
 * Miscelaneous Impementations (core/misc)
-* [AdjacencyGraph]
-* [ArrayQueue]
-* [ArrayStack]
+  * [AdjacencyGraph](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/AdjacencyGraph.java) - This contains an adjacency graph implementation. This contains Dijkstra's shortest path algorithm, Primm's algorithm for minimum spanning trees, cycle detection, preorder, postorder, and reverse postorder depth first search, and topological sort amongst other functionality.
+  [AdjacencyMatrixGraph](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/AdjacencyMatrixGraph.java) - This contains an adjacency matrix graph implementation. In this file, breadth first search, Bellman ford, and Floyd Warshall (for negative weight paths) shortest path algorithms.
+* [ArrayQueue](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/ArrayQueue.java) - This contains a queue implemented as an array containing basic enqueue, dequeue, and peek operations.
+* [ArrayStack](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/ArrayStack.java) - This contains an queue implemented as an array supporting basic push, pop, and peek operations.
 * [BinaryMinHeap]
 * [BinarySearchTree]
 * [Bits]
@@ -32,5 +33,6 @@ The following describes the project main directories and files:
 * [ListNode]
 * [ListQueue]
 * [ListStack]
-* [MatrixGraph]
+* [QueueStack]
+* [StackQueue]
 
