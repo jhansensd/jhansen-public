@@ -7,14 +7,16 @@ The following describes the project main directories and files:
 * [Secondpass Algorithms](https://github.com/jhansensd/jhansen-public/tree/master/algorithms/secondpass) - This contains a second pass at some of the algorithms and data structures.
 
 ## Core Algorithms File Descriptions
-* [core/ArrayStrings/ArrayStrings.java]
-* [core/ArrayStrings/Combinatorics.java]
-* [core/ArrayStrings/Sorting.java]
+* Array and String Implementations (core/arraystrings)
+  * [ArrayStrings](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/ArrayStrings.java) - This object contains methods to perform binary search and to search for weather or not a string is an anagram or a permutation of another string.
+  * [Combinatorics](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/Combinatorics.java) - This object contains the core code to handle calculating combinations and permutations of strings.
+  * [Sorting](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/Sorting.java) - The sorting file contains all of the standard 0(nlogn) and 0(n^2) sorting algorithms (insertion, selection, buttble, radix, heapsort, quicksort, as well as merging and partitioning functions.
 
-* [core/lists/CircularDLinkedList.java](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularDLinkedList.java)
-* [core/lists/CircularSLinkedList.java](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularSLinkedList.java)
-* [core/lists/DoublyLinkedList.java](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyLinkedList.java)
-* [core/lists/DoublyTailLinkedList.java](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyTailLinkedList.java)
-* [core/lists/SinglyLinkedList.java](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyLinkedList.java)
-* [core/lists/SinglyTailLinkedList.java](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyTailLinkedList.java)
+* Linked List Implementations (core/lists)
+  * [CircularDLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularDLinkedList.java)
+  * [CircularSLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularSLinkedList.java)
+  * [DoublyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyLinkedList.java)
+  * [DoublyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyTailLinkedList.java)
+  * [SinglyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyLinkedList.java)
+* [SinglyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyTailLinkedList.java)
 
