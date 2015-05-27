@@ -12,12 +12,12 @@ This repository contains basic data structures and algorithms implementations as
 * [Secondpass Algorithms](https://github.com/jhansensd/jhansen-public/tree/master/algorithms/secondpass) - This contains a second pass at some of the algorithms and data structures.
 
 ## Core Algorithm Descriptions
-* Array and String Implementations (core/arraystrings)
+#### Array and String Implementations (core/arraystrings)
 * [ArrayStrings](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/ArrayStrings.java) - This object contains methods to perform binary search and to search for weather or not a string is an anagram or a permutation of another string.
 * [Combinatorics](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/Combinatorics.java) - This object contains the core code to handle calculating combinations and permutations of strings.
 * [Sorting](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/Sorting.java) - The sorting file contains all of the standard 0(nlogn) and 0(n^2) sorting algorithms (insertion, selection, buttble, radix, heapsort, quicksort, as well as merging and partitioning functions.
 
-## Linked List Implementations (core/lists)
+#### Linked List Implementations (core/lists)
 * [CircularDLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularDLinkedList.java) - This is a circular doubly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
 * [CircularSLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularSLinkedList.java) - This is a circular sinly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
 * [DoublyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyLinkedList.java) - - This is a doubly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
