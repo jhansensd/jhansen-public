@@ -1,4 +1,4 @@
-<div align="center"><h1 margin-top="0">Algorithms and Data Structures</h1></div>
+<div align="center"><h1 padding-top="0" margin-top="0">Algorithms and Data Structures</h1></div>
 <div align="center" width="50"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCAiQyevdsPfHh4vEYpa25VvvZfJ-qx-J3iQZb_FEZKAUWi74DZg"></div>
 This repository contains basic data structures and algorithms implementations as prepared for a Google Interview. This repo should help anyone interviewing at Google or who would like to look at basic algorithm implementations. Amongst some of the most fun in this process was creating the adjacency list graph. In it I was able to apply algorithms such as topological sort, Dijikstra's and Bellman Ford single source shortest path, Floyd Warshall all-pairs shortest path, and Primm's minimum spanning tree. Enjoy the use of this code. The below graph implementations support output in GraphViz dot format so that you can view the graphs in a visual tool. This works with both directed and undirected graphs.
 
