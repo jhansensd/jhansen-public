@@ -1,5 +1,5 @@
-# jhansen-public - Algorithms and Data Structures Repository
-This repository contains basic data structures and algorithms implementations as prepared for a Google Interview. Amongst some of the most fun in this process was creating the adjacency list graph. In it I was able to apply some cool algorithms such as topological sort, dijikstra's shortest path, and primm's minimum spanning tree. Enjoy the use of this code. It was created in the IntelliJ ide but I have not moved those files over yet because this is just the code in a publically viewable format only.
+Algorithms and Data Structures Repository
+This repository contains basic data structures and algorithms implementations as prepared for a Google Interview. This information should help anyone out that is interviewing at Google or would like to look at some basic algorithm implementations. Amongst some of the most fun in this process was creating the adjacency list graph. In it I was able to apply some cool algorithms such as topological sort, dijikstra's shortest path, and primm's minimum spanning tree. Enjoy the use of this code. It was created in the IntelliJ ide but I have not moved those files over yet because this is just the code in a publically viewable format only.
 
 The following describes the project main directories and files:
 * [Core Algorithms](https://github.com/jhansensd/jhansen-public/tree/master/algorithms/core) - This is the core algorithms and data structures code directory. This contains the most up to date and complete view of the core code.
@@ -13,10 +13,24 @@ The following describes the project main directories and files:
   * [Sorting](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/arraystrings/Sorting.java) - The sorting file contains all of the standard 0(nlogn) and 0(n^2) sorting algorithms (insertion, selection, buttble, radix, heapsort, quicksort, as well as merging and partitioning functions.
 
 * Linked List Implementations (core/lists)
-  * [CircularDLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularDLinkedList.java)
-  * [CircularSLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularSLinkedList.java)
-  * [DoublyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyLinkedList.java)
-  * [DoublyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyTailLinkedList.java)
-  * [SinglyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyLinkedList.java)
-* [SinglyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyTailLinkedList.java)
+  * [CircularDLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularDLinkedList.java) - This is a circular doubly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
+  * [CircularSLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/CircularSLinkedList.java) - This is a circular sinly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
+  * [DoublyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyLinkedList.java) - - This is a doubly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
+  * [DoublyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/DoublyTailLinkedList.java) - - This is a doubly linked list which tracks a tail pointer and contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
+  * [SinglyLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyLinkedList.java) - - This is a singly linked list that contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
+  * [SinglyTailLinkedList](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/lists/SinglyTailLinkedList.java) - This is a singly linked list which tracks a tail pointer and contains insertion/deletion 0(1) and 0(n) operations for insertions and deletion.
+
+* Miscelaneous Impementations (core/misc)
+* [AdjacencyGraph]
+* [ArrayQueue]
+* [ArrayStack]
+* [BinaryMinHeap]
+* [BinarySearchTree]
+* [Bits]
+* [LinkedHash]
+* [LinkedHashEntry]
+* [ListNode]
+* [ListQueue]
+* [ListStack]
+* [MatrixGraph]
 
