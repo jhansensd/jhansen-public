@@ -35,7 +35,7 @@ This repository contains basic data structures and algorithms implementations as
 * [Bits](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/Bits.java) - Contains core bit manipulation operations such as clearing, setting, flipping, retrieving, and clearing bit ranges.
 * [GenericTree](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/GenericTree.java) - Contains a generic tree representation that could contain any number of children per node. This could be used to implement something such as a B+Tree.
 * [LinkedHash](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/LinkedHash.java) - Contains a linked hash table that implements basic getting and setting functionality in average case 0(1) when there are no collisions.
-* [LinkedHashEntry](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/LinkedHashEntry.java) - Contains an entry in the above LinkedHash table which contains a genric key and value using.
+* [LinkedHashEntry](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/LinkedHashEntry.java) - Contains an entry in the above LinkedHash table which contains a genric key and value using Java generics.
 * [ListNode](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/ListNode.java) - Contains a list node that implements an Iterator.
 * [ListQueue](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/ListQueue.java) - Contains a queue implemented via a list node.
 * [ListStack](https://github.com/jhansensd/jhansen-public/blob/master/algorithms/core/misc/ListStack.java) - Contains a stack implemented via a list node.
