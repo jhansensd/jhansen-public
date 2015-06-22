@@ -1,6 +1,0 @@
-C:\Users\jhansen\GoogleDrive\for-google\jhansen-google-src\C#\algorithms\bin\Debug\algorithms.exe.config
-C:\Users\jhansen\GoogleDrive\for-google\jhansen-google-src\C#\algorithms\obj\Debug\algorithms.csprojResolveAssemblyReference.cache
-C:\Users\jhansen\GoogleDrive\for-google\jhansen-google-src\C#\algorithms\bin\Debug\algorithms.exe
-C:\Users\jhansen\GoogleDrive\for-google\jhansen-google-src\C#\algorithms\bin\Debug\algorithms.pdb
-C:\Users\jhansen\GoogleDrive\for-google\jhansen-google-src\C#\algorithms\obj\Debug\algorithms.exe
-C:\Users\jhansen\GoogleDrive\for-google\jhansen-google-src\C#\algorithms\obj\Debug\algorithms.pdb
